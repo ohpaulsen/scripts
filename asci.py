@@ -34,15 +34,3 @@ def readff(filed):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1:])
-
-
-#with open(sys) as f:
-#    print Counter(letter for line in inf
-#            for letter in line)
-#f.close()
-
-#if inf is not sys.stdin:
-#    inf.close()
-
-
